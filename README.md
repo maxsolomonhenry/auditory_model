@@ -9,4 +9,4 @@ If you're curious about the underlying assumptions of the model, please see the 
 
 Thanks,
 
--The management.
+-MGMT.
